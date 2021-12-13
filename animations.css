@@ -30,3 +30,15 @@
 
 /*Esercizio 4*/
 
+.ex-4-square {
+    transition: all 3s ease 0s;
+}
+
+.ex-4-square:hover {
+    background-color: transparent;
+}
+
+/*Esercizio 5*/
+
+
+
