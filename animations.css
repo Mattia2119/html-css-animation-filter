@@ -127,3 +127,30 @@
 @keyframes ruota-270 {
     80% {transform: rotate(270deg);}
 }
+
+/*Esercizio 12*/
+
+.ex-12-top-white {
+  animation-name: move-left;
+  animation-iteration-count: infinite;
+  animation-duration: 1s;
+}
+
+@keyframes move-left {
+    50% {left: 60%;}
+    100% {left: 10%;}
+}
+
+.ex-12-bottom-white {
+    animation-name: move-right;
+    animation-iteration-count: infinite;
+    animation-duration: 1s;
+  }
+  
+  @keyframes move-right {
+      50% {right: 60%;}
+      100% {right: 10%;}
+  }
+
+/*Esercizio 13*/
+
