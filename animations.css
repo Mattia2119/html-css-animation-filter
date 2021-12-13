@@ -40,5 +40,16 @@
 
 /*Esercizio 5*/
 
+.ex-5-square {
+    transition: all 3s ease 0s;
+}
 
+.ex-5-square:hover {
+    width: 100px;
+    height: 100px;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+}
 
+.ex-5-square
