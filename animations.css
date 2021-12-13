@@ -93,3 +93,17 @@
 
 /*Esercizio 9*/
 
+.ex-9-img {
+    transition: all 5s ease 0s;
+}
+
+.ex-9-img:hover {
+    border-radius: 20px;
+    filter: saturate(100%);
+    filter: grayscale(100%);
+    width: 500px;
+    margin-left: 0;
+}
+
+/*Esercizio 10*/
+
