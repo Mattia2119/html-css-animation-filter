@@ -101,9 +101,16 @@
     border-radius: 20px;
     filter: saturate(100%);
     filter: grayscale(100%);
-    width: 500px;
-    margin-left: 0;
+    transform: scale(1.5,1.5);
+    
 }
 
 /*Esercizio 10*/
 
+.ex-10-icon {
+    transition: all 5s ease 0;
+}
+
+.ex-10-icon:hover {
+
+}
