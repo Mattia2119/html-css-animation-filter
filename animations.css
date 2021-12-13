@@ -82,3 +82,14 @@
 
 /*Esercizio 8*/
 
+.ex-8-img {
+    transition: all 3s ease 0s;
+}
+
+.ex-8-img:hover {
+    border-radius: 20px;
+    filter: saturate(100%);
+}
+
+/*Esercizio 9*/
+
